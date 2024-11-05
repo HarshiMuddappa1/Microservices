@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+cards:
+  message: Welcome to EazyBank - developer 
+  contactDetails:
+    name: John Developer
+    email: John@gmail.com
+  onCallSupport:
+    - 67895367809
+    - 56474849900

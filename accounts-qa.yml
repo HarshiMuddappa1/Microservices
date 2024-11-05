@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: Welcome to EazyBank accounts related QA info
+  contactDetails:
+    name: Damon QA Lead
+    email: Damon@easybank.com
+  onCallSupport:
+    - 67893435566
+    - 56474848949

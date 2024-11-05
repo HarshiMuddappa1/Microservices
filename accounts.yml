@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+  
+accounts:
+  message: Welcome to EazyBank accounts related info
+  contactDetails:
+    name: Joe Developer
+    email: Joe@easybank.com
+  onCallSupport:
+    - 9870000098
+    - 7889000012

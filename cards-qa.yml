@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: Welcome to EazyBank Cards APIs - QA
+  contactDetails:
+    name: Mary QA Lead
+    email: Mary@gmail.com
+  onCallSupport:
+    - 89895367809
+    - 56907799900

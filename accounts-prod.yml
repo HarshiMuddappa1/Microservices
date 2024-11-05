@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: Welcome to EazyBank accounts related Prod info
+  contactDetails:
+    name: Mariya Product Owner
+    email: Mariya@easybank.com
+  onCallSupport:
+    - 88700000865
+    - 68890000789
