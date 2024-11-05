@@ -5,7 +5,7 @@ accounts:
   message: Welcome to EazyBank accounts related Prod info
   contactDetails:
     name: Mariya Product Owner
-    email: Mariya@easybank.com
+    email: "{cipher}52005ca914167ad0a07ec079d1e791878595505e89f01798f73418fab7cf2f6a460c278d05700cd07463c292d42ba42a"
   onCallSupport:
     - 88700000865
     - 68890000789
